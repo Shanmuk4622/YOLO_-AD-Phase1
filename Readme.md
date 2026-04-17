@@ -4,6 +4,9 @@ This project implements real-time object detection using a custom-trained YOLOv8
 
 ---
 
+## 🔍 Sample Result
+![screenshot](screenshot.png)
+
 ## 📸 Project Overview
 
 - Loads a video file (`cr.mp4`) and processes it with a custom YOLOv8 model (`best.pt`)
@@ -43,8 +46,7 @@ Press **Esc** to exit the video window.
 
 ---
 
-## 🔍 Sample Result
-![screenshot](screenshot.png)
+
 
 ## 🛠 Future Enhancements
 Real-time camera detection support
